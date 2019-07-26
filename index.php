@@ -265,7 +265,6 @@ $user_name  = $_SESSION['user_name'];
                 });
             });
         });
-    });
     </script>
 
 
